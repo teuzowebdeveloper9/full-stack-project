@@ -1,9 +1,18 @@
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import Home from './pages/Home'
+
+
 
 function App() {
  
 
   return (
-    <h1 className="font-bold text-black text-4xl justify-center flex align-middle">oi</h1>
+    <BrowserRouter>
+      <Routes>
+         <Route path='/' element={<Home></Home>}></Route>
+      </Routes>
+    
+    </BrowserRouter>
   )
 }
 
