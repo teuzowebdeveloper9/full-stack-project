@@ -16,6 +16,22 @@ This project is a full-stack application built using Java for the backend and Ja
 - **React Router**: For managing frontend routes.
 - **Axios**: For making HTTP requests.
 
+# screenshots 
+
+![image](https://github.com/user-attachments/assets/4fa565b2-b6fc-4b72-9bf3-f771bf8a5133)
+
+![image](https://github.com/user-attachments/assets/bf2b1879-20f3-4f8e-9f65-8b6511368197)
+
+![image](https://github.com/user-attachments/assets/271f8c8a-089a-47fc-afda-4d3d7a4a6a6e)
+
+![image](https://github.com/user-attachments/assets/11aef310-1507-4b9c-b74d-8d3e59c64016)
+
+![image](https://github.com/user-attachments/assets/8fbc32ad-e1f8-469a-be0d-5774829c70cd)
+
+![image](https://github.com/user-attachments/assets/dc922230-7dee-41d5-9876-2d4ed2b571b0)
+
+![image](https://github.com/user-attachments/assets/e6cfb527-bfd2-4638-9921-3ca07c9e0f02)
+
 
 ## Backend
 
