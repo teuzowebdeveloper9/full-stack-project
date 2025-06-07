@@ -32,6 +32,11 @@ This project is a full-stack application built using Java for the backend and Ja
 
 ![image](https://github.com/user-attachments/assets/e6cfb527-bfd2-4638-9921-3ca07c9e0f02)
 
+![image](https://github.com/user-attachments/assets/d4d065ed-5972-4b4d-b037-624c64a83f5e)
+
+![image](https://github.com/user-attachments/assets/2743da43-aaad-4157-94e0-b7c657620c47)
+
+![image](https://github.com/user-attachments/assets/ecb10b96-7021-4279-8c45-1315e5e92078)
 
 ## Backend
 
