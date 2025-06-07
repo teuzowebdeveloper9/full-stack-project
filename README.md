@@ -2,6 +2,21 @@
 
 This project is a full-stack application built using Java for the backend and JavaScript with React for the frontend. Tailwind CSS is used for styling, providing a responsive design with a mobile-first approach.
 
+
+
+## Technologies Used
+
+- **Java**: For backend development.
+- **Spring Boot**: Framework for building the backend API.
+- **React**: For building the frontend user interface.
+- **Tailwind CSS**: For styling and responsive design.
+- **PostgreSQL**: Database management system.
+- **Docker**: For containerizing the database.
+- **imgbb API**: For handling image uploads.
+- **React Router**: For managing frontend routes.
+- **Axios**: For making HTTP requests.
+
+
 ## Backend
 
 The backend is developed using Java and Spring Boot. It features a simple yet functional structure with a controller responsible for handling API requests related to food items. The API provides two endpoints:
