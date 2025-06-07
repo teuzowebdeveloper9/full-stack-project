@@ -1,8 +1,18 @@
+
+import Apresentation from "../components/Apresentation";
+import Header from "../components/Header";
+
+
+
 function Home() {
     return (
-      <div>
-         <h1 className="font-bold text-black text-4xl justify-center flex align-middle">oi</h1>
-      </div>
+     <div className="overflow-x-hidden">
+      <Header></Header>
+      <Apresentation></Apresentation>
+     
+
+     </div>
+     
        
 
       );

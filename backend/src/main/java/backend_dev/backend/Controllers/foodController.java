@@ -12,6 +12,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/menu")
+@CrossOrigin(origins =  "*", allowedHeaders = "*")
 public class foodController {
      @Autowired
     private FoodRepository repository;
@@ -23,11 +24,12 @@ public class foodController {
 
         repository.save(foodData);
 
-        return;
+        return ;
     }
 
 
     @GetMapping("/")
+    @CrossOrigin(origins =  "*", allowedHeaders = "*")
     public List<FoodDTO> getAll(){
 
         List<FoodDTO> foodList = repository.findAll()
